@@ -8,7 +8,7 @@ public class ShapeTest {
 
 	@Test
 	public void testSquareArea() {
-		double side = 5.0;
+		double side = 6.0;
 
         Shape testSquare = new Shape();
 
